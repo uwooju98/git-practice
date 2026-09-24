@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="practice/practice.csproj" />
+  <Project Path="practice응용/practice응용.csproj" />
+</Solution>
